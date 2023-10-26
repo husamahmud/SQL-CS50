@@ -4,16 +4,16 @@
 
 - [_Cyberchase_](0-Querying%2Fcyberchase)
 - [_36 Views_](0-Querying%2F36-Views)
-- [_players_](0-Querying%2Fplayers)
+- [_Players_](0-Querying%2Fplayers)
 
 ### 1. Relating
 
-- ["Packages, Please"](1-Relating%2FPackages%2C%20Please)
-- [DESE](1-Relating%2FDESE)
-- [Moneyball](1-Relating%2Fmoneyball)
+- [_"Packages, Please"_](1-Relating%2FPackages%2C%20Please)
+- [_DESE_](1-Relating%2FDESE)
+- [_Moneyball_](1-Relating%2Fmoneyball)
 
 ### 2. Designing
 
-- [ATL](2-Designing%2Fatl)
-- [Happy to Connect](2-Designing%2Fconnect)
-- [Union Square Donuts.](2-Designing%2Fdonuts)
+- [_ATL_](2-Designing%2Fatl)
+- [_Happy to Connect_](2-Designing%2Fconnect)
+- [_Union Square Donuts._](2-Designing%2Fdonuts)
