@@ -8,19 +8,19 @@ comprehensive solutions.
 
 ## Solutions by Week
 
-### 0. Querying
+### [0. Querying](0-Querying)
 
 - [_Cyberchase_](0-Querying%2Fcyberchase)
 - [_36 Views_](0-Querying%2F36-Views)
 - [_Players_](0-Querying%2Fplayers)
 
-### 1. Relating
+### [1. Relating](1-Relating)
 
 - [_"Packages, Please"_](1-Relating%2Fpackages)
 - [_DESE_](1-Relating%2FDESE)
 - [_Moneyball_](1-Relating%2Fmoneyball)
 
-### 2. Designing
+### [2. Designing](2-Designing)
 
 - [_ATL_](2-Designing%2Fatl)
 - [_Happy to Connect_](2-Designing%2Fconnect)
