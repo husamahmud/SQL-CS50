@@ -16,7 +16,7 @@ comprehensive solutions.
 
 ### 1. Relating
 
-- [_"Packages, Please"_](1-Relating%2FPackages%2C%20Please)
+- [_"Packages, Please"_](1-Relating%2Fpackages)
 - [_DESE_](1-Relating%2FDESE)
 - [_Moneyball_](1-Relating%2Fmoneyball)
 
