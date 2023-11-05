@@ -31,3 +31,4 @@ comprehensive solutions.
 ### 4. Viewing
 
 - [_Census Taker_](4-Viewing%2Fcensus)
+- [_Bed and Breakfast_](4-Viewing%2Fbnb)
