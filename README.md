@@ -6,8 +6,6 @@ Dive into the world of SQL (Structured Query Language) and database management
 with these
 comprehensive solutions.
 
-## Solutions by Week
-
 ### 0. Querying
 
 - [_Cyberchase_](0-Querying%2Fcyberchase)
