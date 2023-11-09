@@ -27,6 +27,7 @@ comprehensive solutions.
 ### 3. Writing
 
 - [_Don’t Panic_!](3-Writing%2Fdont-panic)
+- [_Meteorite Cleaning_](3-Writing%2Fmeteorites)
 
 ### 4. Viewing
 
