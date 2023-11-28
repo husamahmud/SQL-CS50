@@ -2,9 +2,6 @@
 
 This repository contains solutions for the CS50 Intro to Database with SQL
 course, a part of Harvard University's renowned CS50 curriculum.
-Dive into the world of SQL (Structured Query Language) and database management
-with these
-comprehensive solutions.
 
 ### 0. Querying
 
@@ -33,3 +30,11 @@ comprehensive solutions.
 
 - [_Census Taker_](4-Viewing%2Fcensus)
 - [_Bed and Breakfast_](4-Viewing%2Fbnb)
+
+### 5. Optimizing
+
+- [your.harvard](5-Optimizing%2Fharvard)
+
+### 6. Scaling
+
+- [Happy to Connect](6-Scaling%2Fsentimental-connect)
