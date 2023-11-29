@@ -44,16 +44,16 @@ CREATE TABLE
 		`end_date`   DATE,
 		`status`     ENUM ('earned', 'pursued') NOT NULL,
 		`type`       VARCHAR(10) NOT NULL,
-		FOREIGN KEY (`user_id`) REFERENCES `users` (`id`),
+		FOREIGN KEY (`user_id`)   REFERENCES `users` (`id`),
 		FOREIGN KEY (`school_id`) REFERENCES `schools` (`id`),
 	);
 
 CREATE TABLE
 	IF NOT EXISTS `conns_with_companies` (
-		`user_id` INT NOT NULL,
+		`user_id`    INT NOT NULL,
 		`company_id` INT NOT NULL,
 		`start_date` DATE,
-		`end_date` DATE,
-		FOREIGN KEY (`user_id`) REFERENCES `users` (`id`),
+		`end_date`   DATE,
+		FOREIGN KEY (`user_id`)    REFERENCES `users` (`id`),
 		FOREIGN KEY (`company_id`) REFERENCES `companies` (`id`),
 	);
