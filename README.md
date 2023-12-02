@@ -33,8 +33,8 @@ course, a part of Harvard University's renowned CS50 curriculum.
 
 ### 5. Optimizing
 
-- [your.harvard](5-Optimizing%2Fharvard)
+- [_your.harvard_](5-Optimizing%2Fharvard)
 
 ### 6. Scaling
 
-- [Happy to Connect](6-Scaling%2Fsentimental-connect)
+- [_Happy to Connect_](6-Scaling%2Fsentimental-connect)
