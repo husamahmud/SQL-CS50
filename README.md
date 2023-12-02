@@ -38,3 +38,4 @@ course, a part of Harvard University's renowned CS50 curriculum.
 ### 6. Scaling
 
 - [_Happy to Connect_](6-Scaling%2Fsentimental-connect)
+- [_Don’t Panic! with Python_](6-Scaling%2Fdont-panic-python)
