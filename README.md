@@ -29,6 +29,7 @@ course, a part of Harvard University's renowned CS50 curriculum.
 ### 4. Viewing
 
 - [_Census Taker_](4-Viewing%2Fcensus)
+- [_The Private Eye_](4-Viewing%2Fprivate)
 - [_Bed and Breakfast_](4-Viewing%2Fbnb)
 
 ### 5. Optimizing
