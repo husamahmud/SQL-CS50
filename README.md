@@ -40,3 +40,7 @@ course, a part of Harvard University's renowned CS50 curriculum.
 
 - [_Happy to Connect_](6-Scaling%2Fsentimental-connect)
 - [_Don’t Panic! with Python_](6-Scaling%2Fdont-panic-python)
+
+### Final Project
+
+- [_Library Management System_](project)
